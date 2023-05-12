@@ -26,9 +26,9 @@ python .\f5-big-ip-rce.py -u https://xx.xx.xx.xx
 
 未发现漏洞
 
-![image](https://github.com/FeiNiao/F5-BIG-IP-RCE-vul_check/assets/66779835/e5229430-fa06-498e-9f07-85e27ae261bb)
+
 
 疑似发现漏洞
 
-![image](https://github.com/FeiNiao/F5-BIG-IP-RCE-vul_check/assets/66779835/8519e82d-3d5a-4810-a645-e888f88b8cc5)
+
 
