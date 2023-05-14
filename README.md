@@ -29,7 +29,7 @@ python .\f5-big-ip-rce.py -u https://xx.xx.xx.xx
 ![image](https://github.com/FeiNiao/F5-BIG-IP-RCE-vul_check/assets/66779835/09fee2fa-03b8-4d14-bec4-a3361164edac)
 
 
-疑似发现漏洞
+疑似发现漏洞，漏洞存在会返回执行id命令的结果
 
 ![image](https://github.com/FeiNiao/F5-BIG-IP-RCE-vul_check/assets/66779835/be3a6e42-aa0b-49dc-be1e-aa411d07d21d)
 
